@@ -16,7 +16,7 @@
 </div>
 </td>
 <td align="center" valign="middle">
-<img src="https://webusupload.apowersoft.info/apowercom/wp-content/uploads/2024/01/pdf-reader.jpg" width="500">
+<img src="https://cdn-rdstaticassets.readdle.com/pdfexpert/img/features/reader/banner-reader-1x.png?1653136238" width="500">
 </td>
 </tr>
 </table>
